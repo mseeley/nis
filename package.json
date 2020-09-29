@@ -1,0 +1,13 @@
+{
+  "name": "no-intro-sort",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "nis": "./cli.js"
+  },
+  "dependencies": {
+    "yargs": "^16.0.3"
+  }
+}

@@ -23,6 +23,7 @@ const markets = new Set([
   "Korea",
   "Mexico",
   "Netherlands",
+  "New Zealand",
   "Portugal",
   "Russia",
   "Spain",
